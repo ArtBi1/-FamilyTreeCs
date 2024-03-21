@@ -1,0 +1,9 @@
+{
+    "profiles": {
+      "HW08": {
+        "commandName": "Project",
+        "commandLineArgs": "C:\\GitGeekBrains\\GBFamily\\HW08 .txt деньги",
+        "workingDirectory": "C:\\GitGeekBrains\\GBFamily\\HW08"
+      }
+    }
+  }
